@@ -51,12 +51,4 @@ It can also serve as a **roadmap** for beginners who want to follow along and le
 - Python 3.x 🐍  
 - Jupyter Notebook 📓  
 
----
 
-## 📂 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/repository-name.git
-2. Open the notebooks in Jupyter:
-   jupyter notebook
-3. Start exploring, learning, and running the code yourself 
